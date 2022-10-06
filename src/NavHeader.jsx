@@ -7,7 +7,7 @@ function NavHeader() {
   return (
     <header>
       <span>My Portfolio Site</span>
-      <a href="...">Some Link</a>
+      <a>Some Link</a>
       <a>Something else</a>
       <a>Contact Me</a>
     </header>
