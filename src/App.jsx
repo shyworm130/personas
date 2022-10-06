@@ -154,6 +154,13 @@ function App() {
           <img src='assets/storyboard.png' class='important-img' alt="comic strip with nine frames. they are captioned: Frankie carries their clothes down the stairs using a hamper. They are struggling. In the rush, Frankie drops one of their socks on the floor. Frankie picks up the sock, loosing their balance and almost fallign over. Frankie goes to use one washing machine, but finds it occupied after opening the door. They proceed to the next one, fortunately finding it empty. As they load their clothes in, Frankie knocks thier hamper over, spilling more clothes. Frankie stares at the options on the machine, but is confused by all the options. They pick some at random. Someone else enters and startles Frankie! They fall over and apologize. In the rush to leave, Frankie doesn't press the 'start' button for long enough, and the machine doesn't start washing."/>
           <figcaption>Storyboard depicting Flustered Frankie using a washing machine (<a href='assets/storyboard.png'>enlarge image</a>)</figcaption>
         </figure>
+        <p>This storyboard highlights four parts of the interface and Flustered Frankie's troubles involving it. To be specific:</p>
+        <ol>
+          <li>The doors are not transparent, meaning they have to check multiple machines to find an empty one.</li>
+          <li>The machine is a "side-loader", not a "top-loader", so the door is closer to the ground and makes dropping clothes easier.</li>
+          <li>The dial and menu screen have too many options for Flustered Frankie to process.</li>
+          <li>The start button must be held for an extended period of time, which was not done successfully in the storyboard.</li>
+        </ol>
       </section>
     </main>
   )
