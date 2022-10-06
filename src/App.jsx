@@ -16,9 +16,9 @@ function App() {
         <p>I started this assignment with a contextual inquiry into some public-facing interface. I had to choose some interface to observe, create interview questions, and conduct interviews with users of the interface.</p>
         <p>I chose a washing machine that is located in the shared common area in my building as my interface. It was accessible to any person in my building and it would not be strange or uncomfortable to be observed using this washing machine.</p>
         <p>This interface is complex and has multiple moving parts, which are drawn and annotated here. The machine has two parts: a door/chamber and an "options bar", which contains a drawer, a dial with settings, and a screen with buttons attached.</p>
-        {/* <LightBox mainSrc='/assets/stars.png' onCloseRequest={() => {}} /> */}
+        {/* <LightBox mainSrc='/personas/assets/stars.png' onCloseRequest={() => {}} /> */}
         <figure>
-          <img src='/assets/interface_sketch.png' alt=''/>
+          <img src='/personas/personas/assets/interface_sketch.png' alt=''/>
           <figcaption>sketch of washing machine interface (<a href='assets/interface_sketch.png'>enlarge sketch</a>)</figcaption>
         </figure>
         <p>The screen responds to user input via the buttons and all of the buttons and dial make sounds when used. The interface here allows users to customize and begin the clothes-washing process.</p>
@@ -128,7 +128,7 @@ function App() {
           <li>You must hold down the start button, with no indication of when is "long enough."</li>
         </ul>
         <figure>
-          <img src='/assets/flustered_frankie.png' alt=''/>
+          <img src='/personas/assets/flustered_frankie.png' alt=''/>
           <figcaption>Empathy map of Flustered Frankie (<a href='assets/flustered_frankie.png'>enlarge image</a>)</figcaption>
         </figure>
         <hr />
@@ -142,7 +142,7 @@ function App() {
           <li>It's not immediately clear how the cycle time is calculated.</li>
         </ul>
         <figure>
-          <img src='/assets/controlling_carol.png' alt=''/>
+          <img src='/personas/assets/controlling_carol.png' alt=''/>
           <figcaption>Empathy map of Controlling Carol (<a href='assets/controlling_carol.png'>enlarge image</a>)</figcaption>
         </figure>
       </section>
@@ -151,7 +151,7 @@ function App() {
         <p>For this last section, I created a storyboard depicting a hypothetical scenario that one of my personas, Flustered Frankie, might encounter.</p>
         <p>The struggles of this persona and their interactions with the interface are highlighted, with each frame depicting a different part of the story.</p>
         <figure>
-          <img src='/assets/storyboard.png' class='important-img' alt="comic strip with nine frames. they are captioned: Frankie carries their clothes down the stairs using a hamper. They are struggling. In the rush, Frankie drops one of their socks on the floor. Frankie picks up the sock, loosing their balance and almost fallign over. Frankie goes to use one washing machine, but finds it occupied after opening the door. They proceed to the next one, fortunately finding it empty. As they load their clothes in, Frankie knocks thier hamper over, spilling more clothes. Frankie stares at the options on the machine, but is confused by all the options. They pick some at random. Someone else enters and startles Frankie! They fall over and apologize. In the rush to leave, Frankie doesn't press the 'start' button for long enough, and the machine doesn't start washing."/>
+          <img src='/personas/assets/storyboard.png' class='important-img' alt="comic strip with nine frames. they are captioned: Frankie carries their clothes down the stairs using a hamper. They are struggling. In the rush, Frankie drops one of their socks on the floor. Frankie picks up the sock, loosing their balance and almost fallign over. Frankie goes to use one washing machine, but finds it occupied after opening the door. They proceed to the next one, fortunately finding it empty. As they load their clothes in, Frankie knocks thier hamper over, spilling more clothes. Frankie stares at the options on the machine, but is confused by all the options. They pick some at random. Someone else enters and startles Frankie! They fall over and apologize. In the rush to leave, Frankie doesn't press the 'start' button for long enough, and the machine doesn't start washing."/>
           <figcaption>Storyboard depicting Flustered Frankie using a washing machine (<a href='assets/storyboard.png'>enlarge image</a>)</figcaption>
         </figure>
       </section>
