@@ -7,9 +7,9 @@ function NavHeader() {
   return (
     <header>
       <span>My Portfolio Site</span>
-      <a>Some Link</a>
-      <a>Something else</a>
-      <a>Contact Me</a>
+      <a href='https://cs.brown.edu/courses/csci1300/'>Some Link</a>
+      <a href='https://cs.brown.edu/courses/csci1300/'>Something else</a>
+      <a href='https://cs.brown.edu/courses/csci1300/'>Contact Me</a>
     </header>
   )
 }

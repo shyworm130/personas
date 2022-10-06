@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+cd c/users/owner/onedrive/desktop/dev/personas
 
 # abort on errors
 set -e
